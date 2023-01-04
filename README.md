@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhamadsadiq
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning SpringBoot & Angular Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb:muhamad sadiq muhamad
 
