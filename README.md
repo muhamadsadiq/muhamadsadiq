@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @muhamadsadiq
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning SpringBoot 
 - 📫 How to reach me LinketIn: muhammad-sadq
 
 <!---
