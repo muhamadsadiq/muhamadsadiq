@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhamadsadiq
-- 📫 How to reach me LinketIn: muhammad-sadq
+- 📫 LinketIn: muhammad-sadq
 
 <!---
 muhamadsadiq/muhamadsadiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
